@@ -37,7 +37,7 @@ No build tools needed. Simply open `index.html` in your browser:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/01-html-css-landing-page.git
+git clone https://github.com/x-anish-y/01-html-css-landing-page.git
 cd 01-html-css-landing-page
 
 # Open in browser (macOS)
